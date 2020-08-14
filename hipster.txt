@@ -1,1 +1,3 @@
 hipster text file
+
+added new line with NPP
