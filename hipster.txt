@@ -1,3 +1,7 @@
 hipster text file
 
 added new line with NPP
+
+Added a line that will goes to the staging area first
+
+Added a line that will goes to the staging area after
